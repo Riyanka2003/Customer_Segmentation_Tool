@@ -10,4 +10,4 @@ Technologies:-
 - Pandas & NumPy – For data manipulation and preprocessing
 - JupyterLab Notebook - to run locally
 
-Demo :- http://localhost:8501
+Demo :- http://localhost:8501/
